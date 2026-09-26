@@ -18,4 +18,4 @@ A console-based Bank Management System built in Java demonstrating Object-Orient
 ## 💻 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/singhsahil6300-byte/Banking-System.git](https://github.com/singhsahil6300-byte/Banking-System.git)
+   git clone https://github.com/singhsahil6300-byte/Banking-System.git
